@@ -1,0 +1,36 @@
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\bin\Debug\MathGame.exe.config
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\bin\Debug\MathGame.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\bin\Debug\MathGame.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.frmStart.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.frmMathGame.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\MathGame\obj\Debug\MathGame.frmResult.resources
+D:\Programmer\C# Projects\MathGame\bin\Debug\MathGame.exe.config
+D:\Programmer\C# Projects\MathGame\bin\Debug\MathGame.exe
+D:\Programmer\C# Projects\MathGame\bin\Debug\MathGame.pdb
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.frmResult.resources
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.frmStart.resources
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.frmMathGame.resources
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.exe
+D:\Programmer\C# Projects\MathGame\obj\Debug\MathGame.pdb
+D:\Programmer\C# net Projects\MathGame\bin\Debug\MathGame.exe.config
+D:\Programmer\C# net Projects\MathGame\bin\Debug\MathGame.exe
+D:\Programmer\C# net Projects\MathGame\bin\Debug\MathGame.pdb
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.csproj.AssemblyReference.cache
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.frmResult.resources
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.frmStart.resources
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.frmMathGame.resources
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.Properties.Resources.resources
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.csproj.GenerateResource.cache
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.csproj.CoreCompileInputs.cache
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.exe
+D:\Programmer\C# net Projects\MathGame\obj\Debug\MathGame.pdb
